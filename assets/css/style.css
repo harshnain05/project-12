@@ -56,7 +56,7 @@ color: #1E0E62;
 }
 .artical{
     font-family: "DM Sans", sans-serif;
-font-size: 18px;
+font-size: 19px;
 line-height: 28px;
 text-align: left;
 color: #1E0E62;
@@ -64,8 +64,6 @@ margin-bottom: 34px;
 width: 700px;
 height: 84px;
 margin-top: 19.8px;
-margin-bottom: 34px;
-
 
 }
 h5{
@@ -190,7 +188,7 @@ color: #15143966;
 .date{
     font-family: "DM Sans", sans-serif;
 color: #15143966;
-margin-left: 26px;
+margin-left: 20px;
 margin-top: 10px;
 }
 
@@ -249,7 +247,7 @@ left: 1175px;
 border-radius: 30px 30px 30px 30px;
 background-color: #25DAC5;
 color: white;
-border: 2px solid  #25DAC5;
+border: 2px solid #EBEAED;
 }
 .input{
     width: 220px;
